@@ -37,6 +37,7 @@ The system supports both:
 
 This project demonstrates the practical implementation of:
 
+- Agentic AI
 - Generative AI
 - LLM-powered agents
 - Natural Language to SQL conversion
