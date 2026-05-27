@@ -10,6 +10,20 @@
 
 ---
 
+# 🎥 Demo Videos
+
+## 🗄️ sqlite3 Demo
+
+https://github.com/user-attachments/assets/f8b3d14b-f095-4606-9f7e-840178d638ef
+
+---
+
+## 🗄️ MySQL Demo
+
+https://github.com/user-attachments/assets/3cfcb707-900a-4587-93fb-5e9885979ff0
+
+---
+
 # 🚀 Overview
 
 **SQL Chef** is an AI-powered SQL assistant that enables users to interact with databases using natural language queries.
