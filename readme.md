@@ -168,17 +168,7 @@ SQL-Chef/
 ├── requirements.txt
 ├── .env
 ├── README.md
-│
-├── assets/
-│   └── screenshots/
-│
-├── utils/
-│   └── database.py
-│
-└── screenshots/
-    ├── home.png
-    ├── mysql.png
-    └── chatbot.png
+
 ```
 
 ---
@@ -188,7 +178,7 @@ SQL-Chef/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sql-chef.git
+git clone https://github.com/your-username/sqlchef.git
 cd sql-chef
 ```
 
@@ -318,31 +308,6 @@ Show employee names with salary greater than 50000
 
 ---
 
-# 🖼️ Screenshots
-
-## 🏠 Home Interface
-
-```text
-Add project screenshots here
-```
-
----
-
-## 💬 Chat Interface
-
-```text
-Add chatbot screenshots here
-```
-
----
-
-## 🗄️ MySQL Connection
-
-```text
-Add MySQL configuration screenshots here
-```
-
----
 
 # 🧠 Core Concepts Used
 
